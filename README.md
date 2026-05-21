@@ -27,7 +27,6 @@ SkyAid AI revolutionizes emergency response by:
 | **AI Triage** | Real-time medical assessment (Baseline vs Victim) |
 | **Dashboard** | Mission control with drone status & timeline |
 | **Hospital Alert** | Critical patient notification with AI recommendations |
-| **BMI & Health** | Personalized health calculator & diet suggestions |
 
 ### 🧠 **AI Intelligence**
 - Autonomous emergency detection
