@@ -17,7 +17,7 @@ SkyAid AI revolutionizes emergency response by:
 
 ## 🌟 Features
 
-### 📍 **7 Interactive Screens**
+### 📍 **6 Interactive Screens**
 
 | Screen | Function |
 |--------|----------|
@@ -175,13 +175,6 @@ skyaid-react/
 - Patient grid (8 data points)
 - AI recommendations panel (yellow) with 4 medical suggestions
 - System status indicator (green = ACTIVE)
-
-**⚕️ BMI Calculator Screen**
-- Height input (cm)
-- Weight input (kg)
-- Real-time BMI calculation
-- Color-coded category (Normal=green, Overweight=amber, etc.)
-- 6 personalized diet suggestions
 
 ---
 
@@ -379,13 +372,13 @@ MIT License - Open source for emergency response systems
 
 ## 📊 Statistics
 
-- **7 Interactive Screens**
+- **6 Interactive Screens**
 - **1 Complete HTML File** (No React required)
 - **400+ Lines of CSS** (Professional styling)
 - **500+ Lines of JavaScript** (Pure vanilla)
 - **0 External Dependencies** (Except Google Fonts)
 - **100% Responsive Design**
-- **All 7 Screens Fully Functional**
+- **All 6 Screens Fully Functional**
 
 ---
 
@@ -397,7 +390,6 @@ MIT License - Open source for emergency response systems
 4. **AI Triage:** Show baseline vs victim comparison
 5. **Dashboard:** Display mission status & timeline
 6. **Hospital:** Show critical alert & recommendations
-7. **BMI:** Calculate BMI & show diet suggestions
 
 **Total demo time: 2-3 minutes** - Perfect for presentations!
 
@@ -421,7 +413,7 @@ MIT License - Open source for emergency response systems
 **Status:** ✅ Production Ready  
 **Version:** 1.0.0  
 **Last Updated:** April 2026  
-**All 7 Screens:** Fully Functional  
+**All 6 Screens:** Fully Functional  
 **Zero Errors:** Guaranteed  
 
 ---
